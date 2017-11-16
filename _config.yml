@@ -2,7 +2,7 @@
 # Site
 
 title: Chicago Mechanical Keyboards Meetup
-url: "http://chicagomechanicalkeyboards.com/"
+url: "https://chicagomechanicalkeyboards.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,13 +11,13 @@ timezone: Etc/UTC
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /18chicago-meetup-trans.png
-description: Event marketing template for Jekyll.
-author: Brian J King
-  name: 
+description: 2018 Chicago Mechanical Keyboards Meetup
+author:
+  name:
   email:
-  twitter: brianjking
+  twitter: # twitter username without the @ symbol
 social:
-  name: 
+  name: Malt Template
   links:
     - https://github.com/CloudCannon/malt-jekyll-template
 
