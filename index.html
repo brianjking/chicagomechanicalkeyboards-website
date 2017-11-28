@@ -97,7 +97,7 @@ _options:
 <div class="map" id="gmap_canvas"></div>
 <address><a href="https://www.google.com/maps/place/{{ page.map.address | url_encode }}">{% include icons/place.svg %} {{ page.map.address }}</a></address>
 
-<h3 class="editable">Photos from 2015</h3>
+<h3 class="editable">Photos from Winter 2017 Chicago Mechanical Keyboards Meetup</h3>
 <div class="grid">
 	{% for photo in page.photos %}
 		<div class="grid-item"><a class="fancybox" rel="group" href="{% include relative-src.html src=photo.image %}"><img src="{% include relative-src.html src=photo.image %}" alt="{{ photo.title }}" /></a></div>
